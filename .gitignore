@@ -23,4 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 src/components/recruiter/PostInternshipForm.tsx
+src/components/ui/accordion.tsx
 
